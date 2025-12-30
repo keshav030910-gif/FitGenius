@@ -1,0 +1,5 @@
+{
+  "name": "FitGenius AI",
+  "description": "An intelligent, professional fitness application that generates personalized workout and diet plans using AI, tailored to your equipment availability and goals.",
+  "requestFramePermissions": []
+}
